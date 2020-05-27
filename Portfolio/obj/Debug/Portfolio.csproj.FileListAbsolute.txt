@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\bin\Debug\Portfolio.exe.config
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\bin\Debug\Portfolio.exe
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\bin\Debug\Portfolio.pdb
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\bin\Debug\Dapper.dll
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\bin\Debug\Dapper.xml
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.Form1.resources
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.exe
+C:\Users\LENOVO\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
+C:\Users\LENOVO\OneDrive\Работен плот\Portfolio\Portfolio\obj\Debug\Portfolio.csprojAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Работен плот\Portfolio\Portfolio\obj\Debug\Portfolio.exe
+C:\Users\LENOVO\OneDrive\Работен плот\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
